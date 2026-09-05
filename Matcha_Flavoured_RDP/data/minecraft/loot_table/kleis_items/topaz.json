@@ -12,7 +12,7 @@
 						{
 							"function": "minecraft:set_components",
 							"components": {
-								"minecraft:item_model": "minecraft:topaz",
+								"minecraft:item_model": "matcha:topaz",
 								"minecraft:item_name": {
 									"translate": "item.kleispack.topaz",
 									"color": "yellow"

@@ -19,7 +19,7 @@
 						{
 							"function": "minecraft:set_components",
 							"components": {
-                                "minecraft:item_model": "minecraft:glow_jam",
+                                "minecraft:item_model": "matcha:glow_jam",
                                 "minecraft:item_name": {
                                     "translate": "item.kleispack.glow_berry_jam"
                                 },

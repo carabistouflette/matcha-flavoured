@@ -7,7 +7,7 @@
 					{
 						"items": "minecraft:book",
 						"components": {
-							"minecraft:item_model": "minecraft:enoch"
+							"minecraft:item_model": "matcha:enoch"
 						}
 					}
 				]

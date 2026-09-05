@@ -81,7 +81,7 @@
 				"translate": "item.kleispack.adamant_dolabra",
 				"color": "gold"
 			},
-			"minecraft:item_model": "minecraft:adamant_dolabra",
+			"minecraft:item_model": "matcha:adamant_dolabra",
 			"minecraft:attribute_modifiers": [
 				{
 					"type": "minecraft:attack_damage",

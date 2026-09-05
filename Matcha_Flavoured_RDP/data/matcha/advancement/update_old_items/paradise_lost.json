@@ -7,7 +7,7 @@
 					{
 						"items": "minecraft:book",
 						"components": {
-							"minecraft:item_model": "minecraft:paradise_lost"
+							"minecraft:item_model": "matcha:paradise_lost"
 						}
 					}
 				]
