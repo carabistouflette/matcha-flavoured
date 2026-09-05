@@ -1,5 +1,5 @@
 {
-  "parent": "matcha:fishers_almanac/saltwater/warm/tropical_fish",
+  "parent": "matcha:anglers_almanac/saltwater/warm/tropical_fish",
   "display": {
     "icon": {
       "id": "cod",
@@ -40,7 +40,7 @@
         "player": {
           "minecraft:type_specific/player": {
             "advancements": {
-              "matcha:fishers_almanac/root": true
+              "matcha:anglers_almanac/root": true
             }
           }
         },
