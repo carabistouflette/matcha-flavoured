@@ -907,7 +907,7 @@
   "filled_map.shipwreck": "沉船地图",
   "item.kleispack.silver_sword": "银剑",
   "item.kleispack.warding_shield": "辟邪盾",
-  "log.kleispack.now_loaded": "🍵 Matcha Flavoured 已加载，版本 ",
+  "log.kleispack.now_loaded": "🍵 Matcha Flavoured 已加载，版本 %s",
   "log.kleispack.now_loaded.desc": "如果你迷路了或感到困惑，请查看进度",
   "log.kleispack.gamemode_is": "当前游戏难度:",
   "log.kleispack.easy": "简单",

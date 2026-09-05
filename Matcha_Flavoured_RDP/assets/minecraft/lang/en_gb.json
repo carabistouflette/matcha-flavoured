@@ -867,7 +867,7 @@
   "filled_map.village_taiga": "Abandoned Taiga Village Map",
   "item.kleispack.silver_sword": "Silver Sword",
   "item.kleispack.warding_shield": "Warding Shield",
-  "log.kleispack.now_loaded": "🍵 Matcha Flavoured is now loaded on version ",
+  "log.kleispack.now_loaded": "🍵 Matcha Flavoured is now loaded on version %s",
   "log.kleispack.now_loaded.desc": "If you get lost or confused, check the advancements",
   "log.kleispack.gamemode_is": "Your gamemode is",
   "log.kleispack.easy": "Easy",

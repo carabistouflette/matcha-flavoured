@@ -907,7 +907,7 @@
   "filled_map.shipwreck": "Карта затонувшего корабля",
   "item.kleispack.silver_sword": "Серебрянный меч",
   "item.kleispack.warding_shield": "Оберегающий щит",
-  "log.kleispack.now_loaded": "🍵 Matcha Flavoured загружен на версии ",
+  "log.kleispack.now_loaded": "🍵 Matcha Flavoured загружен на версии %s",
   "log.kleispack.now_loaded.desc": "Если вы не знаете, что делать, загляните в достижения",
   "log.kleispack.gamemode_is": "Сложность игры -",
   "log.kleispack.easy": "Лёгкая",

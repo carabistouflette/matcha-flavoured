@@ -907,7 +907,7 @@
   "filled_map.shipwreck": "Karte zu Schiffswrack",
   "item.kleispack.silver_sword": "Silberschwert",
   "item.kleispack.warding_shield": "Silberschild",
-  "log.kleispack.now_loaded": "🍵 Matcha Flavoured wurde geladen, Version ",
+  "log.kleispack.now_loaded": "🍵 Matcha Flavoured wurde geladen, Version %s",
   "log.kleispack.now_loaded.desc": "Falls du dich verloren oder verwirrt fühlst, sieh dir die Fortschritte an",
   "log.kleispack.gamemode_is": "Dein Spielmodus ist",
   "log.kleispack.easy": "Einfach",

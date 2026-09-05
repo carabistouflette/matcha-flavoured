@@ -104,8 +104,8 @@ scoreboard players set 15min wandering_trader_timer_score 90
 scoreboard players set 0 wandering_trader_timer_score 0
 
 scoreboard objectives add version_number dummy
-#EX. 104 is 1.04, it represents the current version, 1211 1.12.1
-scoreboard players set current_version version_number 1121
+#EX. 104 is 1.04, it represents the current version, 1122 1.12.2
+scoreboard players set current_version version_number 1122
 scoreboard players set zero version_number 0
 
 scoreboard objectives add gamerule_safe_surface dummy
