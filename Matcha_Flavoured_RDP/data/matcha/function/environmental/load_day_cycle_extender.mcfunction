@@ -1,1 +1,1 @@
-function main:environmental/day_cycle_extender
+function matcha:environmental/day_cycle_extender
