@@ -8,7 +8,7 @@
 			{
 				"effect": {
 					"type": "minecraft:run_function",
-					"function": "main:update_cleanses_maleffect"
+					"function": "main:update_cleanse_armor_maleffect"
 				}
 			}
 		]
