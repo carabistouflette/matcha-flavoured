@@ -49,7 +49,7 @@
 			"minecraft:enchantments": {
 				"minecraft:projectile_protection": 3
 			},
-			"minecraft:item_model": "minecraft:sturdy_leather_leggings",
+			"minecraft:item_model": "matcha:sturdy_leather_leggings",
 			"minecraft:equippable": {
 				"slot": "legs",
 				"asset_id": "minecraft:sturdy_leather"

@@ -28,14 +28,14 @@
 		{
 			"function": "minecraft:set_components",
 			"components": {
-				"minecraft:item_model": "minecraft:abbey_map"
+				"minecraft:item_model": "matcha:abbey_map"
 			}
 		}
 	],
 	"gives": {
 		"id": "minecraft:map",
 		"components": {
-			"minecraft:item_model": "minecraft:abbey_map"
+			"minecraft:item_model": "matcha:abbey_map"
 		}
 	},
 	"max_uses": 999,
@@ -46,7 +46,7 @@
 			},
 			"minecraft:rarity": "uncommon",
 			"minecraft:max_stack_size": 64,
-			"minecraft:item_model": "minecraft:divine_comedy",
+			"minecraft:item_model": "matcha:divine_comedy",
 			"minecraft:lore": [
 				{
 					"translate": "item.kleispack.divine_comedy.desc",

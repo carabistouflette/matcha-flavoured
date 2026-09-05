@@ -10,7 +10,7 @@
 				"translate": "item.kleispack.adamant_claymore",
 				"color": "gold"
 			},
-			"minecraft:item_model": "minecraft:adamant_claymore",
+			"minecraft:item_model": "matcha:adamant_claymore",
 			"minecraft:custom_data": {
                 "has_intrinsic_enchants": 1
 			},

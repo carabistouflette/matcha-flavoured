@@ -19,7 +19,7 @@
 						{
 							"function": "minecraft:set_components",
 							"components": {
-								"minecraft:item_model": "minecraft:pumpkin_empanada",
+								"minecraft:item_model": "matcha:pumpkin_empanada",
 								"minecraft:item_name": {
 									"translate": "item.kleispack.pumpkin_empanada"
 								},

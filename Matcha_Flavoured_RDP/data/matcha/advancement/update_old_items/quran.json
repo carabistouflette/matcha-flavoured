@@ -7,7 +7,7 @@
 					{
 						"items": "minecraft:book",
 						"components": {
-							"minecraft:item_model": "minecraft:quran"
+							"minecraft:item_model": "matcha:quran"
 						}
 					}
 				]

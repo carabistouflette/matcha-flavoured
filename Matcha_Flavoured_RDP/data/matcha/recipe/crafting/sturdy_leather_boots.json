@@ -50,7 +50,7 @@
 				"minecraft:feather_falling": 3,
 				"matcha:traversal": 1
 			},
-			"minecraft:item_model": "minecraft:sturdy_leather_boots",
+			"minecraft:item_model": "matcha:sturdy_leather_boots",
 			"minecraft:equippable": {
 				"slot": "feet",
 				"asset_id": "minecraft:sturdy_leather"
