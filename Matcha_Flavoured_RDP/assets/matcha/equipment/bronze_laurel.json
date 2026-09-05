@@ -2,7 +2,7 @@
 	"layers": {
 		"humanoid": [
 			{
-				"texture": "minecraft:bronze_laurel"
+				"texture": "matcha:bronze_laurel"
 			}
 		]
 	}
