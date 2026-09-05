@@ -2,17 +2,17 @@
 	"layers": {
 		"humanoid": [
 			{
-				"texture": "minecraft:bronze"
+				"texture": "matcha:bronze"
 			}
 		],
 		"humanoid_leggings": [
 			{
-				"texture": "minecraft:bronze"
+				"texture": "matcha:bronze"
 			}
 		],
 		"horse_body": [
 			{
-				"texture": "minecraft:bronze"
+				"texture": "matcha:bronze"
 			}
 		]
 	}
