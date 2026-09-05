@@ -16,7 +16,7 @@
 			{
 				"effect": {
 					"type": "minecraft:run_function",
-					"function": "main:update_shkudo_regen"
+					"function": "main:update_shakudo_regen"
 				}
 			}
 		]
