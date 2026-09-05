@@ -906,7 +906,7 @@
   "filled_map.shipwreck": "Karta av skeppsvrak",
   "item.kleispack.silver_sword": "Silversvärd",
   "item.kleispack.warding_shield": "Avskärmande sköld",
-  "log.kleispack.now_loaded": "🍵 Matcha Flavoured är nu laddad på version ",
+  "log.kleispack.now_loaded": "🍵 Matcha Flavoured är nu laddad på version %s",
   "log.kleispack.now_loaded.desc": "Kolla dina framsteg om du inte förstår eller är förvirrad",
   "log.kleispack.gamemode_is": "Ditt gamemode är",
   "log.kleispack.easy": "Lätt",

@@ -920,7 +920,7 @@
   "filled_map.shipwreck": "Map t' th' shipwreck",
   "item.kleispack.silver_sword": "Cutlass o' silver",
   "item.kleispack.warding_shield": "Shield o' wardin'",
-  "log.kleispack.now_loaded": "🍵 Matcha Flavoured now be loaded on version ",
+  "log.kleispack.now_loaded": "🍵 Matcha Flavoured now be loaded on version %s",
   "log.kleispack.now_loaded.desc": "If ye lose yer way o' get confused, check th' accomplishments",
   "log.kleispack.gamemode_is": "Yer challenge be",
   "log.kleispack.easy": "Deckswab",

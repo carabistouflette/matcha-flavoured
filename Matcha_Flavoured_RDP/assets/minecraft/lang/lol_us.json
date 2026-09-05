@@ -867,7 +867,7 @@
   "filled_map.village_taiga": "Map 4 village with da BIG trees",
   "item.kleispack.silver_sword": "silvr STABBY",
   "item.kleispack.warding_shield": "BE GONE EVILLZ shield",
-  "log.kleispack.now_loaded": "🍵 Da Matcha flavord iz now rdy!!! version ",
+  "log.kleispack.now_loaded": "🍵 Da Matcha flavord iz now rdy!!! version %s",
   "log.kleispack.now_loaded.desc": "when u r smort like gamerz look at advancements k?",
   "log.kleispack.gamemode_is": "Ur gamer status iz",
   "log.kleispack.easy": "ez for noobz",

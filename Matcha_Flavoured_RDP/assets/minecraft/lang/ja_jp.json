@@ -907,7 +907,7 @@
   "filled_map.shipwreck": "難破船の地図",
   "item.kleispack.silver_sword": "銀の剣",
   "item.kleispack.warding_shield": "除霊の盾",
-  "log.kleispack.now_loaded": "🍵 Matcha Flavouredの読み込まれたバージョン",
+  "log.kleispack.now_loaded": "🍵 Matcha Flavouredの読み込まれたバージョン%s",
   "log.kleispack.now_loaded.desc": "迷ったり、どうすればいいか分からなくなったりした場合は、進捗を確認してください",
   "log.kleispack.gamemode_is": "ゲームモードは",
   "log.kleispack.easy": "イージー",

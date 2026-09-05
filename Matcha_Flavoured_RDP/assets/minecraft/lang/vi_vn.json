@@ -902,7 +902,7 @@
   "filled_map.shipwreck": "Bản đồ tàu đắm",
   "item.kleispack.silver_sword": "Kiếm bạc",
   "item.kleispack.warding_shield": "Khiên đuổi tà",
-  "log.kleispack.now_loaded": "🍵 Matcha Flavoured đã được cài đặt vào thể giới ở phiên bản ",
+  "log.kleispack.now_loaded": "🍵 Matcha Flavoured đã được cài đặt vào thể giới ở phiên bản %s",
   "log.kleispack.now_loaded.desc": "Nếu bạn cảm thấy lạc lối hay rối rắm, hãy kiểm tra trang tiến trình",
   "log.kleispack.gamemode_is": "Chế độ chơi của bạn là",
   "log.kleispack.easy": "Dễ",
